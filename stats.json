@@ -1,1 +1,56 @@
-{"leetcode":{"easy":2,"hard":1,"medium":1,"shas":{"0414-third-maximum-number":{"0414-third-maximum-number.cpp":"b747b73b9a03a703414bfebd949d03d413b8f87a","README.md":"462fdca39bef8391217b547b84ad84e90295162a","difficulty":"easy"},"README.md":{"":"020f9507ab84913b480b98d2d88a2133be9a984f"},"0283-move-zeroes":{"0283-move-zeroes.cpp":"e1d62f3a8fb54458faae79db9085290f9270a150","README.md":"28d20bb062aa7dc5a9395769b41f7a80a0378b71","difficulty":"easy"},"stats.json":{"":"6f2f6f5e66f017080a5c2db18c41652d58fa9752"},"0287-find-the-duplicate-number":{"0287-find-the-duplicate-number.cpp":"3d34f5e09b82e7f0560bcf9e1e396d83bcf792cc","README.md":"ba4e8560f5387b44482fb9f9ab2e51194d9ccffc","difficulty":"medium"},"0042-trapping-rain-water":{"0042-trapping-rain-water.cpp":"0df9f26d2f1b948c9f0bb28810b9041bc9dacd96","README.md":"af4c5d440c5be9208c556eb70226423ebf0d23a4","difficulty":"hard"}},"solved":4}}
+{
+  "leetcode": {
+    "easy": 2,
+    "hard": 1,
+    "medium": 1,
+    "shas": {
+      "0414-third-maximum-number": {
+        "0414-third-maximum-number.cpp": "b747b73b9a03a703414bfebd949d03d413b8f87a",
+        "README.md": "462fdca39bef8391217b547b84ad84e90295162a",
+        "difficulty": "easy"
+      },
+      "README.md": {
+        "": "020f9507ab84913b480b98d2d88a2133be9a984f"
+      },
+      "0283-move-zeroes": {
+        "0283-move-zeroes.cpp": "e1d62f3a8fb54458faae79db9085290f9270a150",
+        "README.md": "28d20bb062aa7dc5a9395769b41f7a80a0378b71",
+        "difficulty": "easy"
+      },
+      "stats.json": {
+        "": "6f2f6f5e66f017080a5c2db18c41652d58fa9752"
+      },
+      "0287-find-the-duplicate-number": {
+        "0287-find-the-duplicate-number.cpp": "3d34f5e09b82e7f0560bcf9e1e396d83bcf792cc",
+        "README.md": "ba4e8560f5387b44482fb9f9ab2e51194d9ccffc",
+        "difficulty": "medium"
+      },
+      "0042-trapping-rain-water": {
+        "0042-trapping-rain-water.cpp": "0df9f26d2f1b948c9f0bb28810b9041bc9dacd96",
+        "README.md": "af4c5d440c5be9208c556eb70226423ebf0d23a4",
+        "difficulty": "hard"
+      }
+    },
+    "solved": 4
+  },
+  "syncedProblems": {
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
+  },
+  "totalSolved": 1,
+  "difficultyCounts": {
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "basic": 0
+  },
+  "todayProblems": [
+    "Find Target Indices After Sorting Array"
+  ],
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-23",
+  "maxStreak": 1,
+  "activityHistory": {
+    "2026-08-23": 1
+  }
+}
