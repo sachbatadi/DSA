@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachbatadi/Basic-Maths/tree/master/0042-trapping-rain-water) |
+| [0704-binary-search](https://github.com/sachbatadi/Basic-Maths/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
@@ -30,6 +31,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/sachbatadi/Basic-Maths/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
