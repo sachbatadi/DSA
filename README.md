@@ -55,3 +55,4 @@
 | 4 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 23 Aug 2026 | 08:37 pm |
 | 5 | [Divide Array Into Equal Pairs](./LeetCode/Easy/Divide%20Array%20Into%20Equal%20Pairs) | [LeetCode](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | 23 Aug 2026 | 09:04 pm |
 | 6 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 24 Aug 2026 | 03:28 pm |
+| 7 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 24 Aug 2026 | 04:18 pm |
