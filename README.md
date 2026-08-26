@@ -60,3 +60,4 @@
 | 5 | [Divide Array Into Equal Pairs](./LeetCode/Easy/Divide%20Array%20Into%20Equal%20Pairs) | [LeetCode](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | 23 Aug 2026 | 09:04 pm |
 | 6 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 24 Aug 2026 | 03:28 pm |
 | 7 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 24 Aug 2026 | 04:18 pm |
+| 8 | [Number of Occurrence](./GeeksForGeeks/Easy/Number%20of%20Occurrence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Easy | 26 Aug 2026 | 04:00 pm |
