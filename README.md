@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sachbatadi/Basic-Maths/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sachbatadi/Basic-Maths/tree/master/0042-trapping-rain-water) |
@@ -33,6 +34,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sachbatadi/Basic-Maths/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/sachbatadi/Basic-Maths/tree/master/0704-binary-search) |
