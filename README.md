@@ -64,3 +64,4 @@
 | 7 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 24 Aug 2026 | 04:18 pm |
 | 8 | [Number of Occurrence](./GeeksForGeeks/Easy/Number%20of%20Occurrence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Easy | 26 Aug 2026 | 04:00 pm |
 | 9 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 27 Aug 2026 | 12:02 pm |
+| 10 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 28 Aug 2026 | 01:17 pm |
