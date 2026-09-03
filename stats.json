@@ -75,24 +75,26 @@
   },
   "syncedProblems": {
     "GeeksForGeeks_Selection_Sort": true,
-    "GeeksForGeeks_Insertion_Sort": true
+    "GeeksForGeeks_Insertion_Sort": true,
+    "LeetCode_Construct_Uniform_Parity_Array_I": true
   },
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Insertion Sort"
+    "Construct Uniform Parity Array I"
   ],
   "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-08-31",
+  "lastSyncDate": "2026-09-03",
   "maxStreak": 1,
   "activityHistory": {
     "2026-08-28": 1,
-    "2026-08-31": 1
+    "2026-08-31": 1,
+    "2026-09-03": 1
   }
 }

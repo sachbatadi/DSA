@@ -73,3 +73,4 @@
 | 10 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 28 Aug 2026 | 01:17 pm |
 | 11 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 28 Aug 2026 | 01:51 pm |
 | 12 | [Insertion Sort](./GeeksForGeeks/Easy/Insertion%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insertion-sort/1) | Easy | 31 Aug 2026 | 03:53 pm |
+| 13 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 03 Sept 2026 | 09:33 am |
