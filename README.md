@@ -89,3 +89,4 @@
 | 14 | [Linked List Traversal](./GeeksForGeeks/Basic/Linked%20List%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linkedlist-traversal/1) | Basic | 03 Sept 2026 | 11:42 am |
 | 15 | [Length of Linked List](./GeeksForGeeks/Basic/Length%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | Basic | 03 Sept 2026 | 11:48 am |
 | 16 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 04 Sept 2026 | 01:04 pm |
+| 17 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 04 Sept 2026 | 02:16 pm |
