@@ -86,3 +86,4 @@
 | 13 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 03 Sept 2026 | 09:33 am |
 | 14 | [Linked List Traversal](./GeeksForGeeks/Basic/Linked%20List%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linkedlist-traversal/1) | Basic | 03 Sept 2026 | 11:42 am |
 | 15 | [Length of Linked List](./GeeksForGeeks/Basic/Length%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | Basic | 03 Sept 2026 | 11:48 am |
+| 16 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 04 Sept 2026 | 01:04 pm |
