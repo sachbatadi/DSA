@@ -100,24 +100,26 @@
   },
   "syncedProblems": {
     "GeeksForGeeks_Linked_List_Insertion_At_Beginning": true,
-    "GeeksForGeeks_Linked_List_End_Insertion": true
+    "GeeksForGeeks_Linked_List_End_Insertion": true,
+    "GeeksForGeeks_Insert_at_Middle_of_Linked_List": true
   },
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "todayProblems": [
     "Linked List Insertion At Beginning",
-    "Linked List End Insertion"
+    "Linked List End Insertion",
+    "Insert at Middle of Linked List"
   ],
   "currentStreak": 1,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-07",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-09-07": 2
+    "2026-09-07": 3
   }
 }
