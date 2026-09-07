@@ -94,3 +94,4 @@
 | 16 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 04 Sept 2026 | 01:04 pm |
 | 17 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 04 Sept 2026 | 02:16 pm |
 | 18 | [Delete Node in a Linked List](./LeetCode/Medium/Delete%20Node%20in%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | 07 Sept 2026 | 03:34 pm |
+| 19 | [Linked List Insertion At Beginning](./GeeksForGeeks/Easy/Linked%20List%20Insertion%20At%20Beginning) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linked-list-insertion-at-beginning/1) | Easy | 07 Sept 2026 | 03:53 pm |
