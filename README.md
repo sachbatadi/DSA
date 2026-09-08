@@ -55,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sachbatadi/Basic-Maths/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/sachbatadi/Basic-Maths/tree/master/0412-fizz-buzz) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -68,6 +69,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sachbatadi/Basic-Maths/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sachbatadi/Basic-Maths/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sachbatadi/Basic-Maths/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sachbatadi/Basic-Maths/tree/master/0206-reverse-linked-list) |
@@ -76,6 +78,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sachbatadi/Basic-Maths/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sachbatadi/Basic-Maths/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sachbatadi/Basic-Maths/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sachbatadi/Basic-Maths/tree/master/0206-reverse-linked-list) |
