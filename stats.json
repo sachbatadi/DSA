@@ -101,25 +101,25 @@
   "syncedProblems": {
     "GeeksForGeeks_Linked_List_Insertion_At_Beginning": true,
     "GeeksForGeeks_Linked_List_End_Insertion": true,
-    "GeeksForGeeks_Insert_at_Middle_of_Linked_List": true
+    "GeeksForGeeks_Insert_at_Middle_of_Linked_List": true,
+    "LeetCode_Reverse_Linked_List": true
   },
-  "totalSolved": 3,
+  "totalSolved": 4,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "basic": 2
   },
   "todayProblems": [
-    "Linked List Insertion At Beginning",
-    "Linked List End Insertion",
-    "Insert at Middle of Linked List"
+    "Reverse Linked List"
   ],
-  "currentStreak": 1,
-  "todayCount": 3,
-  "lastSyncDate": "2026-09-07",
-  "maxStreak": 1,
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-08",
+  "maxStreak": 2,
   "activityHistory": {
-    "2026-09-07": 3
+    "2026-09-07": 3,
+    "2026-09-08": 1
   }
 }

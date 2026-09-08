@@ -97,3 +97,4 @@
 | 19 | [Linked List Insertion At Beginning](./GeeksForGeeks/Easy/Linked%20List%20Insertion%20At%20Beginning) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linked-list-insertion-at-beginning/1) | Easy | 07 Sept 2026 | 03:53 pm |
 | 20 | [Linked List End Insertion](./GeeksForGeeks/Basic/Linked%20List%20End%20Insertion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | Basic | 07 Sept 2026 | 03:58 pm |
 | 21 | [Insert at Middle of Linked List](./GeeksForGeeks/Basic/Insert%20at%20Middle%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1) | Basic | 07 Sept 2026 | 04:08 pm |
+| 22 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 08 Sept 2026 | 01:11 pm |
