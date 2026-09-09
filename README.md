@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachbatadi/Basic-Maths/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/sachbatadi/Basic-Maths/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/sachbatadi/Basic-Maths/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sachbatadi/Basic-Maths/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sachbatadi/Basic-Maths/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/sachbatadi/Basic-Maths/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/sachbatadi/Basic-Maths/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sachbatadi/Basic-Maths/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sachbatadi/Basic-Maths/tree/master/0237-delete-node-in-a-linked-list) |
@@ -82,6 +84,14 @@
 | [0021-merge-two-sorted-lists](https://github.com/sachbatadi/Basic-Maths/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sachbatadi/Basic-Maths/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sachbatadi/Basic-Maths/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sachbatadi/Basic-Maths/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sachbatadi/Basic-Maths/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
 | 3 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 23 Aug 2026 | 08:27 pm |
 | 4 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 23 Aug 2026 | 08:37 pm |
