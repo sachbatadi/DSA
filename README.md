@@ -116,3 +116,4 @@
 | 23 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 08 Sept 2026 | 01:59 pm |
 | 24 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 09 Sept 2026 | 01:20 pm |
 | 25 | [Doubly Linked List Traversal](./GeeksForGeeks/Basic/Doubly%20Linked%20List%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/1) | Basic | 09 Sept 2026 | 02:12 pm |
+| 26 | [Print Linked List](./GeeksForGeeks/Basic/Print%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-linked-list-elements/1) | Basic | 09 Sept 2026 | 02:17 pm |

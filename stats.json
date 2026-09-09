@@ -114,23 +114,25 @@
     "solved": 20
   },
   "syncedProblems": {
-    "GeeksForGeeks_Doubly_Linked_List_Traversal": true
+    "GeeksForGeeks_Doubly_Linked_List_Traversal": true,
+    "GeeksForGeeks_Print_Linked_List": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "todayProblems": [
-    "Doubly Linked List Traversal"
+    "Doubly Linked List Traversal",
+    "Print Linked List"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-09",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-09-09": 1
+    "2026-09-09": 2
   }
 }
