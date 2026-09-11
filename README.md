@@ -118,3 +118,4 @@
 | 25 | [Doubly Linked List Traversal](./GeeksForGeeks/Basic/Doubly%20Linked%20List%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/1) | Basic | 09 Sept 2026 | 02:12 pm |
 | 26 | [Print Linked List](./GeeksForGeeks/Basic/Print%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-linked-list-elements/1) | Basic | 09 Sept 2026 | 02:17 pm |
 | 27 | [Toggle Case](./GeeksForGeeks/Easy/Toggle%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-case/1) | Easy | 11 Sept 2026 | 01:29 pm |
+| 28 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 11 Sept 2026 | 02:05 pm |

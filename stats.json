@@ -116,24 +116,26 @@
   "syncedProblems": {
     "GeeksForGeeks_Doubly_Linked_List_Traversal": true,
     "GeeksForGeeks_Print_Linked_List": true,
-    "GeeksForGeeks_Toggle_Case": true
+    "GeeksForGeeks_Toggle_Case": true,
+    "LeetCode_Valid_Palindrome": true
   },
-  "totalSolved": 3,
+  "totalSolved": 4,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "basic": 2
   },
   "todayProblems": [
-    "Toggle Case"
+    "Toggle Case",
+    "Valid Palindrome"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-11",
   "maxStreak": 1,
   "activityHistory": {
     "2026-09-09": 2,
-    "2026-09-11": 1
+    "2026-09-11": 2
   }
 }
