@@ -115,24 +115,25 @@
   },
   "syncedProblems": {
     "GeeksForGeeks_Doubly_Linked_List_Traversal": true,
-    "GeeksForGeeks_Print_Linked_List": true
+    "GeeksForGeeks_Print_Linked_List": true,
+    "GeeksForGeeks_Toggle_Case": true
   },
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 0,
     "hard": 0,
     "basic": 2
   },
   "todayProblems": [
-    "Doubly Linked List Traversal",
-    "Print Linked List"
+    "Toggle Case"
   ],
   "currentStreak": 1,
-  "todayCount": 2,
-  "lastSyncDate": "2026-09-09",
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-11",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-09-09": 2
+    "2026-09-09": 2,
+    "2026-09-11": 1
   }
 }
