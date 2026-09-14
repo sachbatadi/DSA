@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/sachbatadi/Basic-Maths/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/sachbatadi/Basic-Maths/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0867-transpose-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3875-construct-uniform-parity-array-i) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sachbatadi/Basic-Maths/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
