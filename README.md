@@ -125,3 +125,4 @@
 | 27 | [Toggle Case](./GeeksForGeeks/Easy/Toggle%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-case/1) | Easy | 11 Sept 2026 | 01:29 pm |
 | 28 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 11 Sept 2026 | 02:05 pm |
 | 29 | [Transpose of Matrix](./GeeksForGeeks/Easy/Transpose%20of%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) | Easy | 14 Sept 2026 | 04:22 pm |
+| 30 | [Stack using Linked List](./GeeksForGeeks/Basic/Stack%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | Basic | 16 Sept 2026 | 03:45 pm |
