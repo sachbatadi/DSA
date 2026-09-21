@@ -133,3 +133,4 @@
 | 29 | [Transpose of Matrix](./GeeksForGeeks/Easy/Transpose%20of%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) | Easy | 14 Sept 2026 | 04:22 pm |
 | 30 | [Stack using Linked List](./GeeksForGeeks/Basic/Stack%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | Basic | 16 Sept 2026 | 03:45 pm |
 | 31 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 16 Sept 2026 | 04:31 pm |
+| 32 | [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | 21 Sept 2026 | 04:08 pm |
