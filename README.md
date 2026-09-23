@@ -15,6 +15,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/sachbatadi/Basic-Maths/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0867-transpose-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachbatadi/Basic-Maths/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3875-construct-uniform-parity-array-i) |
@@ -46,6 +47,7 @@
 | [0035-search-insert-position](https://github.com/sachbatadi/Basic-Maths/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/sachbatadi/Basic-Maths/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachbatadi/Basic-Maths/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sachbatadi/Basic-Maths/tree/master/0141-linked-list-cycle) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachbatadi/Basic-Maths/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -103,6 +106,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachbatadi/Basic-Maths/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachbatadi/Basic-Maths/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
 | 3 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 23 Aug 2026 | 08:27 pm |
 | 4 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 23 Aug 2026 | 08:37 pm |
