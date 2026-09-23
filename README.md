@@ -134,3 +134,4 @@
 | 30 | [Stack using Linked List](./GeeksForGeeks/Basic/Stack%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | Basic | 16 Sept 2026 | 03:45 pm |
 | 31 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 16 Sept 2026 | 04:31 pm |
 | 32 | [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | 21 Sept 2026 | 04:08 pm |
+| 33 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | 24 Sept 2026 | 02:49 am |
