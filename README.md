@@ -18,6 +18,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachbatadi/Basic-Maths/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sachbatadi/Basic-Maths/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sachbatadi/Basic-Maths/tree/master/0141-linked-list-cycle) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachbatadi/Basic-Maths/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sachbatadi/Basic-Maths/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
