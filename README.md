@@ -65,6 +65,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sachbatadi/Basic-Maths/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/sachbatadi/Basic-Maths/tree/master/0412-fizz-buzz) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sachbatadi/Basic-Maths/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
