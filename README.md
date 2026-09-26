@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/sachbatadi/Basic-Maths/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0867-transpose-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachbatadi/Basic-Maths/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sachbatadi/Basic-Maths/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -78,6 +79,7 @@
 | [0125-valid-palindrome](https://github.com/sachbatadi/Basic-Maths/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/sachbatadi/Basic-Maths/tree/master/0412-fizz-buzz) |
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0141-linked-list-cycle](https://github.com/sachbatadi/Basic-Maths/tree/master/0141-linked-list-cycle) |
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachbatadi/Basic-Maths/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sachbatadi/Basic-Maths/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
