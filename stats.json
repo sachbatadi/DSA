@@ -159,23 +159,25 @@
     "solved": 29
   },
   "syncedProblems": {
-    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true
+    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true,
+    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Reverse Substrings Between Each Pair of Parentheses"
+    "Reverse Substrings Between Each Pair of Parentheses",
+    "Maximum Nesting Depth of the Parentheses"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-28",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-09-28": 1
+    "2026-09-28": 2
   }
 }
