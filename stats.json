@@ -164,23 +164,25 @@
     "solved": 30
   },
   "syncedProblems": {
-    "LeetCode_Intersection_of_Two_Arrays": true
+    "LeetCode_Intersection_of_Two_Arrays": true,
+    "LeetCode_Baseball_Game": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Intersection of Two Arrays"
+    "Intersection of Two Arrays",
+    "Baseball Game"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-30",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-09-30": 1
+    "2026-09-30": 2
   }
 }

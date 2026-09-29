@@ -178,3 +178,4 @@
 | 39 | [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | 28 Sept 2026 | 12:45 am |
 | 40 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 10:18 pm |
 | 41 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 30 Sept 2026 | 01:02 am |
+| 42 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 30 Sept 2026 | 01:12 am |
