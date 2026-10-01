@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/valid-parentheses/)
 
 ## Solved On
-16 Sept 2026 at 04:31 pm
+01 Oct 2026 at 05:09 pm
 
 <p>Given a string <code>s</code> containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
 
