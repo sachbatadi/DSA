@@ -175,24 +175,26 @@
   },
   "syncedProblems": {
     "LeetCode_Remove_Nth_Node_From_End_of_List": true,
-    "GeeksForGeeks_Insert_in_a_Singly_Linked_List": true
+    "GeeksForGeeks_Insert_in_a_Singly_Linked_List": true,
+    "LeetCode_Design_Linked_List": true
   },
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Insert in a Singly Linked List"
+    "Insert in a Singly Linked List",
+    "Design Linked List"
   ],
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-10-03",
   "maxStreak": 2,
   "activityHistory": {
     "2026-10-02": 1,
-    "2026-10-03": 1
+    "2026-10-03": 2
   }
 }
