@@ -33,6 +33,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sachbatadi/Basic-Maths/tree/master/0042-trapping-rain-water) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sachbatadi/Basic-Maths/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sachbatadi/Basic-Maths/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/sachbatadi/Basic-Maths/tree/master/0412-fizz-buzz) |
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachbatadi/Basic-Maths/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sachbatadi/Basic-Maths/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sliding Window
@@ -136,6 +139,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
