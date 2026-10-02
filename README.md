@@ -190,3 +190,4 @@
 | 42 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 30 Sept 2026 | 01:12 am |
 | 43 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 02 Oct 2026 | 10:48 pm |
 | 44 | [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 02 Oct 2026 | 11:01 pm |
+| 45 | [Insert in a Singly Linked List](./GeeksForGeeks/Easy/Insert%20in%20a%20Singly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insertion-at-a-given-position-in-a-linked-list/1) | Easy | 03 Oct 2026 | 03:06 am |
