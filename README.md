@@ -26,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sachbatadi/Basic-Maths/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sachbatadi/Basic-Maths/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/sachbatadi/Basic-Maths/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sachbatadi/Basic-Maths/tree/master/0141-linked-list-cycle) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sachbatadi/Basic-Maths/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sachbatadi/Basic-Maths/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sachbatadi/Basic-Maths/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sachbatadi/Basic-Maths/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/sachbatadi/Basic-Maths/tree/master/0203-remove-linked-list-elements) |
