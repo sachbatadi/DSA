@@ -16,6 +16,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/sachbatadi/Basic-Maths/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sachbatadi/Basic-Maths/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sachbatadi/Basic-Maths/tree/master/0015-3sum) |
+| [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
@@ -160,6 +162,30 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/sachbatadi/Basic-Maths/tree/master/0707-design-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
 | 3 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 23 Aug 2026 | 08:27 pm |
 | 4 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 23 Aug 2026 | 08:37 pm |
