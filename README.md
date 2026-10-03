@@ -206,3 +206,4 @@
 | 45 | [Insert in a Singly Linked List](./GeeksForGeeks/Easy/Insert%20in%20a%20Singly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insertion-at-a-given-position-in-a-linked-list/1) | Easy | 03 Oct 2026 | 03:06 am |
 | 46 | [Design Linked List](./LeetCode/Medium/Design%20Linked%20List) | [LeetCode](https://leetcode.com/problems/design-linked-list/) | Medium | 03 Oct 2026 | 03:38 am |
 | 47 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 01:24 pm |
+| 48 | [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) | [LeetCode](https://leetcode.com/problems/sort-an-array/) | Medium | 04 Oct 2026 | 01:27 am |
