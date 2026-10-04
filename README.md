@@ -233,3 +233,4 @@
 | 46 | [Design Linked List](./LeetCode/Medium/Design%20Linked%20List) | [LeetCode](https://leetcode.com/problems/design-linked-list/) | Medium | 03 Oct 2026 | 03:38 am |
 | 47 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 01:24 pm |
 | 48 | [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) | [LeetCode](https://leetcode.com/problems/sort-an-array/) | Medium | 04 Oct 2026 | 01:27 am |
+| 49 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 05 Oct 2026 | 12:11 am |
