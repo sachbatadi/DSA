@@ -40,6 +40,7 @@
 | [0022-generate-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sachbatadi/Basic-Maths/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/sachbatadi/Basic-Maths/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sachbatadi/Basic-Maths/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
@@ -47,6 +48,7 @@
 | [0020-valid-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sachbatadi/Basic-Maths/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/sachbatadi/Basic-Maths/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachbatadi/Basic-Maths/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
@@ -93,6 +95,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sachbatadi/Basic-Maths/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/sachbatadi/Basic-Maths/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/sachbatadi/Basic-Maths/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachbatadi/Basic-Maths/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -139,6 +142,7 @@
 | [0020-valid-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sachbatadi/Basic-Maths/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachbatadi/Basic-Maths/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sachbatadi/Basic-Maths/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sliding Window
@@ -186,6 +190,10 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sachbatadi/Basic-Maths/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
 | 3 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 23 Aug 2026 | 08:27 pm |
 | 4 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 23 Aug 2026 | 08:37 pm |
