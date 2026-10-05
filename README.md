@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/sachbatadi/Basic-Maths/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sachbatadi/Basic-Maths/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0074-search-a-2d-matrix) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/sachbatadi/Basic-Maths/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/sachbatadi/Basic-Maths/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sachbatadi/Basic-Maths/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -169,10 +171,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -194,6 +198,10 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sachbatadi/Basic-Maths/tree/master/0678-valid-parenthesis-string) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sachbatadi/Basic-Maths/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
 | 3 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 23 Aug 2026 | 08:27 pm |
 | 4 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 23 Aug 2026 | 08:37 pm |
