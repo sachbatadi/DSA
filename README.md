@@ -255,3 +255,4 @@
 | 48 | [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) | [LeetCode](https://leetcode.com/problems/sort-an-array/) | Medium | 04 Oct 2026 | 01:27 am |
 | 49 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 05 Oct 2026 | 12:11 am |
 | 50 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 06 Oct 2026 | 12:28 am |
+| 51 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 08 Oct 2026 | 12:01 am |
