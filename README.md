@@ -259,3 +259,4 @@
 | 49 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 05 Oct 2026 | 12:11 am |
 | 50 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 06 Oct 2026 | 12:28 am |
 | 51 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 08 Oct 2026 | 12:01 am |
+| 52 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 10 Oct 2026 | 01:01 am |
