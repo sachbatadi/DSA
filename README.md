@@ -54,6 +54,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachbatadi/Basic-Maths/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachbatadi/Basic-Maths/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Matrix
 |  |
@@ -153,6 +155,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachbatadi/Basic-Maths/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachbatadi/Basic-Maths/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sachbatadi/Basic-Maths/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sliding Window
 |  |
@@ -208,6 +211,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sachbatadi/Basic-Maths/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachbatadi/Basic-Maths/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Quickselect
 |  |
 | ------- |
