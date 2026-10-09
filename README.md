@@ -263,3 +263,4 @@
 | 50 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 06 Oct 2026 | 12:28 am |
 | 51 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 08 Oct 2026 | 12:01 am |
 | 52 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 10 Oct 2026 | 01:01 am |
+| 53 | [Minimum Insertions to Balance a Parentheses String](./LeetCode/Medium/Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String) | [LeetCode](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | 10 Oct 2026 | 01:02 am |
