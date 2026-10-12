@@ -279,3 +279,4 @@
 | 52 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 10 Oct 2026 | 01:01 am |
 | 53 | [Minimum Insertions to Balance a Parentheses String](./LeetCode/Medium/Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String) | [LeetCode](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | 10 Oct 2026 | 01:02 am |
 | 54 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 12 Oct 2026 | 08:33 pm |
+| 55 | [Apply Operations on Array to Maximize Sum of Squares](./LeetCode/Hard/Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | 12 Oct 2026 | 08:34 pm |
