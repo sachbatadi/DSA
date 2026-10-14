@@ -98,6 +98,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sachbatadi/Basic-Maths/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sachbatadi/Basic-Maths/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sachbatadi/Basic-Maths/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sachbatadi/Basic-Maths/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -223,6 +224,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sachbatadi/Basic-Maths/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sachbatadi/Basic-Maths/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sachbatadi/Basic-Maths/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sachbatadi/Basic-Maths/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sachbatadi/Basic-Maths/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quickselect
 |  |
