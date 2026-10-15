@@ -294,3 +294,4 @@
 | 55 | [Apply Operations on Array to Maximize Sum of Squares](./LeetCode/Hard/Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | 12 Oct 2026 | 08:34 pm |
 | 56 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 13 Oct 2026 | 08:47 pm |
 | 57 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 07:38 pm |
+| 58 | [Subarrays Distinct Element Sum of Squares I](./LeetCode/Easy/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | 16 Oct 2026 | 01:48 am |
