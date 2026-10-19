@@ -29,6 +29,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sachbatadi/Basic-Maths/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sachbatadi/Basic-Maths/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sachbatadi/Basic-Maths/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sachbatadi/Basic-Maths/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachbatadi/Basic-Maths/tree/master/3875-construct-uniform-parity-array-i) |
@@ -85,6 +86,7 @@
 | [1096-brace-expansion-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachbatadi/Basic-Maths/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sachbatadi/Basic-Maths/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sachbatadi/Basic-Maths/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sachbatadi/Basic-Maths/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
@@ -153,6 +155,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sachbatadi/Basic-Maths/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sachbatadi/Basic-Maths/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sachbatadi/Basic-Maths/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sachbatadi/Basic-Maths/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sachbatadi/Basic-Maths/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
