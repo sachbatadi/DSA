@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
 
 ## Solved On
-23 Aug 2026 at 08:27 pm
+19 Oct 2026 at 04:12 pm
 
 <p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and a target element <code>target</code>.</p>
 
