@@ -267,23 +267,25 @@
     "solved": 50
   },
   "syncedProblems": {
-    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
+    "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Find Target Indices After Sorting Array"
+    "Find Target Indices After Sorting Array",
+    "Minimum Swaps to Sort by Digit Sum"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-10-19",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-10-19": 1
+    "2026-10-19": 2
   }
 }
