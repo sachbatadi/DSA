@@ -313,3 +313,4 @@
 | 57 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 07:38 pm |
 | 58 | [Subarrays Distinct Element Sum of Squares I](./LeetCode/Easy/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | 16 Oct 2026 | 01:48 am |
 | 59 | [Minimum Swaps to Sort by Digit Sum](./LeetCode/Medium/Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | 19 Oct 2026 | 04:14 pm |
+| 60 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 21 Oct 2026 | 01:33 am |
