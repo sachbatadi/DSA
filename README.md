@@ -315,3 +315,4 @@
 | 59 | [Minimum Swaps to Sort by Digit Sum](./LeetCode/Medium/Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | 19 Oct 2026 | 04:14 pm |
 | 60 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 21 Oct 2026 | 01:33 am |
 | 61 | [Size of a Complete Binary Tree](./GeeksForGeeks/Medium/Size%20of%20a%20Complete%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1) | Medium | 21 Oct 2026 | 01:18 pm |
+| 62 | [Count Leaves in Binary Tree](./GeeksForGeeks/Basic/Count%20Leaves%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | Basic | 21 Oct 2026 | 03:29 pm |
