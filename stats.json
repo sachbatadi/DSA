@@ -275,26 +275,25 @@
     "LeetCode_Sum_of_Sortable_Integers": true,
     "GeeksForGeeks_Size_of_a_Complete_Binary_Tree": true,
     "GeeksForGeeks_Count_Leaves_in_Binary_Tree": true,
-    "GeeksForGeeks_Left_View_of_Binary_Tree": true
+    "GeeksForGeeks_Left_View_of_Binary_Tree": true,
+    "LeetCode_Minimum_Operations_to_Sort_a_String": true
   },
-  "totalSolved": 4,
+  "totalSolved": 5,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 1,
+    "medium": 2,
     "hard": 1,
     "basic": 1
   },
   "todayProblems": [
-    "Sum of Sortable Integers",
-    "Size of a Complete Binary Tree",
-    "Count Leaves in Binary Tree",
-    "Left View of Binary Tree"
+    "Minimum Operations to Sort a String"
   ],
-  "currentStreak": 1,
-  "todayCount": 4,
-  "lastSyncDate": "2026-10-21",
-  "maxStreak": 1,
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-10-22",
+  "maxStreak": 2,
   "activityHistory": {
-    "2026-10-21": 4
+    "2026-10-21": 4,
+    "2026-10-22": 1
   }
 }

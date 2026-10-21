@@ -317,3 +317,4 @@
 | 61 | [Size of a Complete Binary Tree](./GeeksForGeeks/Medium/Size%20of%20a%20Complete%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1) | Medium | 21 Oct 2026 | 01:18 pm |
 | 62 | [Count Leaves in Binary Tree](./GeeksForGeeks/Basic/Count%20Leaves%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | Basic | 21 Oct 2026 | 03:29 pm |
 | 63 | [Left View of Binary Tree](./GeeksForGeeks/Easy/Left%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | Easy | 21 Oct 2026 | 04:02 pm |
+| 64 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 22 Oct 2026 | 01:06 am |
