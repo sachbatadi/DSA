@@ -319,3 +319,4 @@
 | 62 | [Count Leaves in Binary Tree](./GeeksForGeeks/Basic/Count%20Leaves%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | Basic | 21 Oct 2026 | 03:29 pm |
 | 63 | [Left View of Binary Tree](./GeeksForGeeks/Easy/Left%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | Easy | 21 Oct 2026 | 04:02 pm |
 | 64 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 22 Oct 2026 | 01:06 am |
+| 65 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 24 Oct 2026 | 03:00 am |
