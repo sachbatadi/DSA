@@ -323,3 +323,4 @@
 | 64 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 22 Oct 2026 | 01:06 am |
 | 65 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 24 Oct 2026 | 03:00 am |
 | 66 | [Merge Sort](./GeeksForGeeks/Medium/Merge%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-sort/1) | Medium | 28 Oct 2026 | 04:38 pm |
+| 67 | [Implement Stack using Array](./GeeksForGeeks/Basic/Implement%20Stack%20using%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) | Basic | 29 Oct 2026 | 12:20 pm |
