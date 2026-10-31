@@ -1,0 +1,17 @@
+# Parenthesis Checker
+
+## Difficulty: Easy
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1)
+
+## Solved On
+31 Oct 2026 at 04:32 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1">Parenthesis Checker</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 14pt;">Given a string <strong>s</strong>, composed of different combinations of '(' , ')', '{', '}', '[', ']'. Determine whether the Expression is <strong>balanced </strong>or not.<br>An expression is balanced if:</span></p><ol><li><span style="font-size: 14pt;">Each opening bracket has a corresponding closing bracket of the same type.</span></li><li><span style="font-size: 14pt;">Opening brackets must be closed in the correct order.</span></li></ol><p><span style="font-size: 14pt;"><strong>Examples :</strong></span></p><pre><span style="font-size: 14pt;"><strong>Input: </strong>s = "[{()}]"
+<strong>Output:</strong> true
+<strong>Explanation: </strong>All the brackets are well-formed.</span></pre><pre><span style="font-size: 14pt;"><strong>Input: </strong>s = "[()()]{}"
+<strong>Output:</strong> true
+<strong>Explanation: </strong>All the brackets are well-formed.<br></span></pre><pre><span style="font-size: 14pt;"><strong>Input:</strong> s = "([]"<br><strong>Output: </strong>false<br><strong>Explanation: </strong>The expression is not balanced as there is a missing ')' at the end.<br></span></pre><pre><span style="font-size: 14pt;"><strong>Input:</strong> s = "([{]})"<br><strong>Output: </strong>false<br><strong>Explanation: </strong>The expression is not balanced as there is a closing ']' before the closing '}'.</span></pre>

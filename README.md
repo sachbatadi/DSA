@@ -334,3 +334,4 @@
 | 66 | [Merge Sort](./GeeksForGeeks/Medium/Merge%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-sort/1) | Medium | 28 Oct 2026 | 04:38 pm |
 | 67 | [Implement Stack using Array](./GeeksForGeeks/Basic/Implement%20Stack%20using%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) | Basic | 29 Oct 2026 | 12:20 pm |
 | 68 | [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) | [LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | 31 Oct 2026 | 03:33 pm |
+| 69 | [Parenthesis Checker](./GeeksForGeeks/Easy/Parenthesis%20Checker) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | 31 Oct 2026 | 04:32 pm |

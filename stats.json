@@ -292,23 +292,25 @@
     "solved": 55
   },
   "syncedProblems": {
-    "LeetCode_Valid_Parentheses": true
+    "LeetCode_Valid_Parentheses": true,
+    "GeeksForGeeks_Parenthesis_Checker": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Valid Parentheses"
+    "Valid Parentheses",
+    "Parenthesis Checker"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-10-31",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-10-31": 1
+    "2026-10-31": 2
   }
 }
