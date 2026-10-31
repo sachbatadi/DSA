@@ -58,6 +58,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sachbatadi/Basic-Maths/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/sachbatadi/Basic-Maths/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sachbatadi/Basic-Maths/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/sachbatadi/Basic-Maths/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachbatadi/Basic-Maths/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sachbatadi/Basic-Maths/tree/master/1021-remove-outermost-parentheses) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sachbatadi/Basic-Maths/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sachbatadi/Basic-Maths/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/sachbatadi/Basic-Maths/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sachbatadi/Basic-Maths/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sachbatadi/Basic-Maths/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
 | 3 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 23 Aug 2026 | 08:27 pm |
 | 4 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 23 Aug 2026 | 08:37 pm |
